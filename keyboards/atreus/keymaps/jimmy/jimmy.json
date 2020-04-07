@@ -1,0 +1,16 @@
+[
+ [["Q", "W", "E", "R", "T",                                       "Y", "U", "I", "O", "P"],
+  ["A", "S", "D", "F", "G",                                       "H", "J", "K", "L", "SEMICOLON"],
+  ["Z", "X", "C", "V", "B",                             "SHIFT",  "N", "M", "COMMA", "PERIOD", "SLASH"],
+  ["ESC", "TAB", "CTRL", "ALT", "BACKSPACE",  "GUI",            "SPACE", "FN", "MINUS", "QUOTE", "ENTER"]],
+
+ [[["shift", "1"], ["shift", "2"], "UP", ["shift", "LEFT_BRACE"], ["shift", "RIGHT_BRACE"],                           "PAGE_UP", "7", "8", "9", ["shift", "8"]],
+  [["shift", "3"], "LEFT", "DOWN", "RIGHT", ["shift", "4"],                                                          "PAGE_DOWN", "4", "5", "6", ["shift", "EQUAL"]],
+  ["LEFT_BRACE", "RIGHT_BRACE", ["shift", "9"], ["shift", "0"], ["shift", "7"],                       "SHIFT",       "TILDE", "1", "2", "3", "BACKSLASH"],
+  [["function", 2],  "INSERT", "CTRL", "ALT", "BACKSPACE",  "GUI",                                                   "SPACE", "FN", "PERIOD", "0", "EQUAL"]],
+
+ [["INSERT", "HOME", "UP", "END", "PAGE_UP",                                        "UP", "F7", "F8", "F9", "F10"],
+  ["DELETE", "LEFT", "DOWN", "RIGHT", "PAGE_DOWN",                                "DOWN", "F4", "F5", "F6", "F11"],
+  ["", "VOLUP", "", "", "RESET",                                              "",     "", "F1", "F2", "F3", "F12"],
+  ["", "VOLDOWN", "CTRL", "ALT", "BACKSPACE",                      "GUI",        "SPACE", ["function", 0], "", "", ""]]
+]
